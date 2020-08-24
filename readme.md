@@ -23,6 +23,7 @@ Day 10 : Face recognition of Mark Zuckerberg, Bill Gates and Mukesh Ambani using
 <br></br>
 Day 11 : Charity Donation Prediction and Sentiment Analysis using VADER
 <br></br>
-
 Day 12 : Document Retrieval System using Naive TF-IDF
+<br></br>
+Day 13 : Pika Pika : Pokemon Classification using VGG16
 <br></br>
