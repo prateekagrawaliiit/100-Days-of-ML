@@ -27,3 +27,5 @@ Day 12 : Document Retrieval System using Naive TF-IDF
 <br></br>
 Day 13 : Pika Pika : Pokemon Classification using VGG16
 <br></br>
+Day 14 : Pima Indian Diabetes Classification using Deep Learning
+<br></br>
