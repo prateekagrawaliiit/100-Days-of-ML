@@ -29,5 +29,5 @@ Day 13 : Pika Pika : Pokemon Classification using VGG16
 <br></br>
 Day 14 : Pima Indian Diabetes Classification using Deep Learning
 <br></br>
-Day 15 : Movie Box-Office Collection prediction using DecisionTreeRegressor
+Day 15 : Movie Box-Office Collection prediction using DecisionTreeRegressor and Movie Start-Tech Oscar prediction using DecisionTreeClassifier
 <br></br>
