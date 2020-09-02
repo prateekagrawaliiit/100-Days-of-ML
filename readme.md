@@ -31,5 +31,5 @@ Day 14 : Pima Indian Diabetes Classification using Deep Learning
 <br></br>
 Day 15 : Movie Box-Office Collection prediction using DecisionTreeRegressor and Movie Start-Tech Oscar prediction using DecisionTreeClassifier
 <br></br>
-Day 16 : Movie Start-Tech Oscar prediction using Bagging, RandomForestClassifier and GridSearchCV
+Day 16 : Movie Start-Tech Oscar prediction using Bagging, RandomForestClassifier,GradientBoostingClassifier and GridSearchCV
 <br></br>
