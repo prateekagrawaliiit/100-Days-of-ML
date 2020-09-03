@@ -33,3 +33,5 @@ Day 15 : Movie Box-Office Collection prediction using DecisionTreeRegressor and 
 <br></br>
 Day 16 : Movie Start-Tech Oscar prediction using Bagging, RandomForestClassifier,GradientBoostingClassifier,AdaBoost and XGBoost and GridSearchCV
 <br></br>
+Day 17 : Basic Image to Sketch Converter using cv2 and imageio
+<br></br>
