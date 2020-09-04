@@ -35,3 +35,5 @@ Day 16 : Movie Start-Tech Oscar prediction using Bagging, RandomForestClassifier
 <br></br>
 Day 17 : Basic (Beginner Model) Image to Sketch Converter using cv2, imageio and plain python.
 <br></br>
+Day 18 : Titanic Survival (Cleaned Dataset) Prediction using Decision Trees
+<br></br>
