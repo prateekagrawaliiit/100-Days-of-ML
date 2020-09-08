@@ -37,5 +37,5 @@ Day 17 : Basic (Beginner Model) Image to Sketch Converter using cv2, imageio and
 <br></br>
 Day 18 : Titanic Survival (Cleaned Dataset) Prediction using Decision Trees
 <br></br>
-Day 18 : Web Scraping using BeautifulSoup
+Day 18 : Web Scraping using BeautifulSoup - Created a dataset of Premiere League Scores from 2000-2019.
 <br></br>
