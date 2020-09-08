@@ -37,3 +37,5 @@ Day 17 : Basic (Beginner Model) Image to Sketch Converter using cv2, imageio and
 <br></br>
 Day 18 : Titanic Survival (Cleaned Dataset) Prediction using Decision Trees
 <br></br>
+Day 18 : Web Scraping using BeautifulSoup
+<br></br>
