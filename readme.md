@@ -39,3 +39,5 @@ Day 18 : Titanic Survival (Cleaned Dataset) Prediction using Decision Trees
 <br></br>
 Day 19 : Web Scraping using BeautifulSoup - Created a dataset of Premiere League Scores from 2000-2019.
 <br></br>
+Day 20 : Created a dataset of GOT episodes using BeautifulSoup
+<br></br>
