@@ -41,3 +41,5 @@ Day 19 : Web Scraping using BeautifulSoup - Created a dataset of Premiere League
 <br></br>
 Day 20 : Created a dataset of GOT episodes using BeautifulSoup
 <br></br>
+Day 21 : Fake news classifier using transformers (MHW20)
+<br></br>
