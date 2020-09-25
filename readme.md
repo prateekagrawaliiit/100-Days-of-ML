@@ -43,3 +43,5 @@ Day 20 : Created a dataset of GOT episodes using BeautifulSoup
 <br></br>
 Day 21 : Fake news classifier using transformers (MHW20) using 2 different methods.
 <br></br>
+Day 21 : Hyperparameter Optimization Templates for Tree Classifier on Mobile Price Classification dataset
+<br></br>
