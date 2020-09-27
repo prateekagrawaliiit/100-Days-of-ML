@@ -45,3 +45,5 @@ Day 21 : Fake news classifier using transformers (MHW20) using 2 different metho
 <br></br>
 Day 22 : Hyperparameter Optimization Templates for Tree Classifier on Mobile Price Classification dataset namely GridSearchCV,RandomSearchCV,gp_minimize,hyperopt and optuna
 <br></br>
+Day 23 : Spam or Ham using Bert and Pytorch
+<br></br>
