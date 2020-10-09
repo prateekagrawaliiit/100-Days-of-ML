@@ -47,5 +47,8 @@ Day 22 : Hyperparameter Optimization Templates for Tree Classifier on Mobile Pri
 <br></br>
 Day 23 : Detecting whether a mail is spam or ham using Bert and Pytorch
 <br></br>
-Day 24 : Bag of Words meet Bag of Popcorns
+Day 24 : Regular Expressions Basics
+<br></br>
+
+Pending : Bag of Words meet Bag of Popcorns
 <br></br>
