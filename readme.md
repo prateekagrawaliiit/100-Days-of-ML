@@ -1,4 +1,4 @@
-## The following repository contains codes done as a part of a personal challenge called 100-Days-of-ML where I try to learn and implement 7 new things or projects in a week.
+## The following repository contains source code for various machine learning and deep learning projects or frameworks I tried my hands on. 
 
 
 Day 1 : Contains code for Wine Quality Dataset
